@@ -1,4 +1,6 @@
-Build environment based on OpenPLi-homebuild(develop branch). Update 29-07-2026
+Build environment based on OpenPLi-homebuild(develop branch). 
+
+Update 29-07-2026.
 
 https://github.com/OpenPLi/openpli-oe-core/commits/develop<br>
 https://github.com/Hains<br>
