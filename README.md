@@ -30,11 +30,3 @@ libc6-dev libtool make texinfo patch perl pkg-config subversion tar texi2html \
 zlib1g-dev chrpath libxml2-utils lz4 xsltproc libglib2.0-dev python-setuptools \
 libc6-i386 genromfs guile-2.2-libs quilt zstd
 
-```
-
-cd openpli-dreambox-oe-core
-make update
-git checkout scarthgap
-make update
-./image.sh
-```
