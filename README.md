@@ -1,5 +1,4 @@
 ## Build environment based on OpenPLi-homebuild(develop branch). 
-******************************************************
 
 Update 29-07-2026
 ---
